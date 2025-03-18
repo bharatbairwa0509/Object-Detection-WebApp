@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Object_Detection_WebApp/data/BCCD/images/train/
+val: /content/drive/MyDrive/Object_Detection_WebApp/data/BCCD/images/val/
+test: /content/drive/MyDrive/Object_Detection_WebApp/data/BCCD/images/test/
+
+nc: 3
+names: ["RBC", "WBC", "Platelets"]
